@@ -58,13 +58,14 @@ Simple WordPress tooltip shortcode, full customize and easy to use.
 
 ### Usage
 * Just use this shortcode to add tooltip:
+
 	[simple_tooltip text="some text or one word" tooltip="my tooltip text"]
 
 ### Shortcode Attributes
 1. text="here enter your text or one word, example: @Qassim_Dev", default is none. required.
 2. tooltip="here enter tooltip text, example: this is my username on twitter! follow me", default is none, required.
 3. background="here enter tooltip background color code, eaxmple: #ff0" default is #555555, not required.
-4. url="here enter link if you want, example: http://wp-time.com" default it none, not required.
+4. url="here enter link if you want, example: http://wp-time.com" default is none, not required.
 5. color="here enter tooltip text color code, example: #000" default is #ffffff, not required.
 
 == Frequently Asked Questions ==
