@@ -57,9 +57,10 @@ Simple WordPress tooltip shortcode, full customize and easy to use.
 3. Now you will find new button "Simple Tooltip" in WP posts editor.
 
 ### Usage
+
 * Just use this shortcode to add tooltip:
 
-	[simple_tooltip text="some text or one word" tooltip="my tooltip text"]
+    [simple_tooltip text="some text or one word" tooltip="my tooltip text"]
 
 ### Shortcode Attributes
 1. text="here enter your text or one word, example: @Qassim_Dev", default is none. required.
